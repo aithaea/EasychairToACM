@@ -1,5 +1,7 @@
 Welcome to Easychair to ACM convertor
 
+This program is written in Python so you will need an IDE with Python installed to run.
+
 To use this file you will need to ensure that the author info csv file and the accepted paper csv file are in the same directory where this code is stored. 
 
 The author file should be named authors.csv
